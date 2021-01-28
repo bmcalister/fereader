@@ -1,6 +1,6 @@
 PODS:
   - AEXML (4.3.3)
-  - fereader (0.0.1):
+  - fereader (0.1.0):
     - Flutter
     - NFolioReaderKit (= 1.4.1)
   - Flutter (1.0.0)
@@ -50,7 +50,7 @@ EXTERNAL SOURCES:
 
 SPEC CHECKSUMS:
   AEXML: 601f41fcaa7bda7605cad153b0f43db9ec006c0f
-  fereader: b98b7a691c6ef7cd499a1cc1f663e01e25ec80b0
+  fereader: 5a99d6d399dc02bfee9f8dc894ab4054c0a4bfa1
   Flutter: 0e3d915762c693b495b44d77113d4970485de6ec
   FontBlaster: 127aa66419478d1c62926c7fdb39841633344a45
   MenuItemKit: 0f850e630b0a3d2bd80fec54db87ce0d2077ada2
