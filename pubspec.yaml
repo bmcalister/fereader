@@ -1,7 +1,6 @@
 name: fereader
 description: A Flutter epub reader
 version: 0.0.1
-author: Brian Mc Alister
 homepage: https://github.com/bmcalister/fereader
 
 environment:
