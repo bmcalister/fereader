@@ -1,5 +1,5 @@
 name: fereader
-description: A Flutter epub reader
+description: A Flutter epub reader for iOS and Android which wraps the folioreader framework.
 version: 0.0.1
 homepage: https://github.com/bmcalister/fereader
 

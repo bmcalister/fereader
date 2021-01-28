@@ -1,4 +1,4 @@
-# Fereader
+# Fereader [![pub package](https://img.shields.io/pub/v/fereader.svg?color=blue)](https://pub.dartlang.org/packages/fereader)
 
 Inspired by [epub_viewer](https://github.com/JideGuru/epub_viewer) I made this to fit my needs.
 
