@@ -25,9 +25,9 @@ class EpubConfig: NSObject {
         self.nightMode = nightMode
         self.config.canChangeScrollDirection = true
         if scrollDirection == "vertical"{
-            self.config.scrollDirection = FolioReaderScrollDirection.vertical
+            self.scrollDirection = FolioReaderScrollDirection.vertical
         }else if (scrollDirection == "horizontal"){
-            self.config.scrollDirection = FolioReaderScrollDirection.horizontal
+            self.scrollDirection = FolioReaderScrollDirection.horizontal
         }
         self.config.enableTTS = enableTts
         self.config.hidePageIndicator = false
