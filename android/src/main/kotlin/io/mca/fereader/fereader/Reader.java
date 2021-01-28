@@ -63,7 +63,7 @@ public class Reader implements OnHighlightListener, ReadLocatorListener, FolioRe
                         folioReader.setReadLocator(readLocator);
                     }
                     folioReader.setConfig(readerConfig.config, true)
-                            .openBook(path);
+                                .openBook(path);
                 } catch (Exception e) {
                     e.printStackTrace();
                 }
