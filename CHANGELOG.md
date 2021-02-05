@@ -1,3 +1,7 @@
+## 0.2.0
+
+* updated NFolioReaderKit to use WKWebView instead of UIWebView
+
 ## 0.1.2
 
 * Fixes scroll direction on iOS
