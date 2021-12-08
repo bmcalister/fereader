@@ -41,7 +41,7 @@ class Fereader {
 
   /// bookPath should be a local file.
   /// Last location is only available for android.
-  static void open(String bookPath, {EpubLocator lastLocation}) async {
+  static void open(String bookPath, {EpubLocator? lastLocation}) async {
     Map<String, dynamic> agrs = {
       "bookPath": bookPath,
       'lastLocation':
